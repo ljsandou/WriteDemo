@@ -3,8 +3,6 @@
 //  WriteDemo
 //
 //  Created by 三斗 on 16/1/8.
-//  Copyright © 2016年 com.streamind. All rights reserved.
-//
 
 import UIKit
 import MediaPlayer
